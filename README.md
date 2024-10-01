@@ -1,9 +1,6 @@
 # Custom-FDM-3D-Printer
 
-This is a fully open-source FDM 3D printer that is currently under development.
-The goal of this project is to share an open-source 3D printer design so that anyone can build their own giant 3D printer of any size.
-
-
+This is a fully open-source FDM 3D printer currently under development. The aim of this project is to provide a comprehensive open-source design, enabling anyone to construct their own large-scale 3D printer of any size.
 
 # 3D Render of the Printer
 <img src="https://github.com/egeozgul/portfolioFiles/blob/main/3D_printer_rotate.gif?raw=true" alt="" class="s-img-switch" width="100%">

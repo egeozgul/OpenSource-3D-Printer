@@ -13,3 +13,7 @@ The goal of this project is to share an open-source 3D printer design so that an
 
 # Video of the Printer
 https://github.com/user-attachments/assets/5caea688-9fcb-45e3-80dd-60d462bdaeb1
+
+# Another Video of the Printer
+https://github.com/user-attachments/assets/105e4f8d-cb4a-40f9-a3ec-3571a54e6c20
+

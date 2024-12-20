@@ -17,7 +17,5 @@ https://github.com/user-attachments/assets/105e4f8d-cb4a-40f9-a3ec-3571a54e6c20
 # Printer In Action
 https://github.com/user-attachments/assets/5caea688-9fcb-45e3-80dd-60d462bdaeb1
 
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/vid1.mp4" width="100%">
-
 # Stay Tuned
 More updates coming soon !!

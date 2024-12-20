@@ -6,7 +6,7 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 <img src="https://github.com/egeozgul/portfolioFiles/blob/main/3D_printer_rotate.gif?raw=true" alt="" class="s-img-switch" width="100%">
 
 # Printer
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/Printer.jpeg" width="100%">
+<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/Printer_sidePhoto.jpeg" width="100%">
 
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.

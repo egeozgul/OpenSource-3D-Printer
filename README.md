@@ -9,6 +9,7 @@ esign, enabling anyone to construct their own large-scale 3D printer of any size
 
 # Printer
 <img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/printer_sidePhoto.jpg" width="100%">
+<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/printer_sidePhoto.jpg" width="100%">
 
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.
@@ -17,11 +18,11 @@ This video demonstates a successful first layer print, with the plastic forming 
 # Printer In Action
 
 <div width="320" height="240">
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/printer_sidePhoto.jpg" width="100%">
+<img src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622">
 
-  https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
 </div>
 
+https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
 <vid src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" width="100%">
 
 <vid src="https://github.com/user-attachments/assets/bc5cb6da-87b5-49c3-a702-098197622a87" width="100%">

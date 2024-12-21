@@ -11,16 +11,18 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.
 This video demonstates a successful first layer print, with the plastic forming a strong bond to the heatbed.
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/372667836-5caea688-9fcb-45e3-80dd-60d462bdaeb1.mp4" width="100%">
-
-
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/syringeExtruder.mp4" width="100%">
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/standardExtruder.mp4" width="100%">
 
 # Printer In Action
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/testPrinting_close.mp4" width="100%">
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/testPrint_1.mp4" width="100%">
 
+https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
+
+https://github.com/user-attachments/assets/bc5cb6da-87b5-49c3-a702-098197622a87
+
+https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed
+
+https://github.com/user-attachments/assets/6587ebc4-12c6-4b4c-8945-917f6c736aa5
+
+https://github.com/user-attachments/assets/5bab25ef-b337-4227-8a18-fae159991af8
 
 
 

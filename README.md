@@ -8,7 +8,6 @@ esign, enabling anyone to construct their own large-scale 3D printer of any size
 <img src="https://github.com/egeozgul/portfolioFiles/blob/main/3D_printer_rotate.gif?raw=true" alt="" class="s-img-switch" width="100%">
 
 # Printer
-![Uploading 20241219_160529(1).png…]()
 
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.

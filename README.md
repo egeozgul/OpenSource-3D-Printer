@@ -10,8 +10,6 @@ esign, enabling anyone to construct their own large-scale 3D printer of any size
 # Printer
 ![Uploading 20241219_160529(1).png…]()
 
-<img src="Uploading 20241219_160529(1).png" width="80%">
-
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.
 This video demonstates a successful first layer print, with the plastic forming a strong bond to the heatbed.

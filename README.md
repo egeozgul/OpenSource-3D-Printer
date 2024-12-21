@@ -16,24 +16,11 @@ Printing the first layer is often a challenge.
 This video demonstates a successful first layer print, with the plastic forming a strong bond to the heatbed.
 
 # Printer In Action
-
-<img src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622">
-
-
 https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
-<vid src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" width="100%">
-
-<vid src="https://github.com/user-attachments/assets/bc5cb6da-87b5-49c3-a702-098197622a87" width="100%">
-
-<vid src="https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed" width="100%">
-
-<vid src="https://github.com/user-attachments/assets/5bab25ef-b337-4227-8a18-fae159991af8" width="100%">
-
-
-
-
-
-
+https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
+https://github.com/user-attachments/assets/bc5cb6da-87b5-49c3-a702-098197622a87
+https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed
+https://github.com/user-attachments/assets/5bab25ef-b337-4227-8a18-fae159991af8
 
 # Stay Tuned
 

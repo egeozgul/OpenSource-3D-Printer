@@ -14,9 +14,7 @@ This video demonstates a successful first layer print, with the plastic forming 
 
 # Printer In Action
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" type="video/mp4">
-</video>
+<source src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" type="video/mp4">
 
 <vid src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" width="100%">
 

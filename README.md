@@ -1,6 +1,8 @@
 # Custom-FDM-3D-Printer
 
-This is a fully open-source FDM 3D printer currently under development. The aim of this project is to provide a comprehensive open-source design, enabling anyone to construct their own large-scale 3D printer of any size.
+This is a fully open-source FDM 3D printer currently under development. The aim of this project is to provide a comprehensive open-source d
+
+esign, enabling anyone to construct their own large-scale 3D printer of any size.
 
 # 3D Render of the Printer
 <img src="https://github.com/egeozgul/portfolioFiles/blob/main/3D_printer_rotate.gif?raw=true" alt="" class="s-img-switch" width="100%">
@@ -15,7 +17,7 @@ This video demonstates a successful first layer print, with the plastic forming 
 # Printer In Action
 
 <video width="320" height="240" controls>
-<video src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" type="video/mp4">
+https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
 </video>
 
 <vid src="https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622" width="100%">

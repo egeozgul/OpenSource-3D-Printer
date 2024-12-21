@@ -18,8 +18,8 @@ This video demonstates a successful first layer print, with the plastic forming 
 <img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/standardExtruder.mp4" width="100%">
 
 # Printer In Action
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/testPrinting_close.mp4" width="100%">
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/testPrint_1.mp4" width="100%">
+<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/testPrinting_close.mp4" width="100%">
+<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/testPrint_1.mp4" width="100%">
 
 
 

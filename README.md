@@ -17,5 +17,8 @@ https://github.com/user-attachments/assets/105e4f8d-cb4a-40f9-a3ec-3571a54e6c20
 # Printer In Action
 https://github.com/user-attachments/assets/5caea688-9fcb-45e3-80dd-60d462bdaeb1
 
+https://github.com/user-attachments/assets/fa6111ae-c669-42fd-8b89-4e14383e8b56
+
+
 # Stay Tuned
 More updates coming soon !!

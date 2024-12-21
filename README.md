@@ -7,7 +7,7 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 
 # Printer
 <img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/printer_sidePhoto.jpg" width="100%">
-
+<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/blob/main/372667836-5caea688-9fcb-45e3-80dd-60d462bdaeb1.mp4" width="100%">
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.
 This video demonstates a successful first layer print, with the plastic forming a strong bond to the heatbed.

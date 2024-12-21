@@ -10,7 +10,7 @@ esign, enabling anyone to construct their own large-scale 3D printer of any size
 # Printer
 ![Uploading 20241219_160529(1).png…]()
 
-<img src="https://github.com/egeozgul/Custom-FDM-3D-Printer/media/blob/main/printer_sidePhoto.jpg" width="80%">
+<img src="Uploading 20241219_160529(1).png" width="80%">
 
 # Printing A Perfect First Layer
 Printing the first layer is often a challenge.

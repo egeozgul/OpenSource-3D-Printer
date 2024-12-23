@@ -1,7 +1,7 @@
 ![20241219_160529(1)](https://github.com/user-attachments/assets/53a56d4d-69ed-47ea-8abe-58e4b396c535)
 
-<img src="https://github.com/egeozgul/portfolioFiles/media/blob/main/printer_fron.jpg?raw=true" alt="" class="s-img-switch" width="100%">
-media/printer_fron.jpg
+<img src="https://github.com/egeozgul/portfolioFiles/media/blob/main/printer_fron.jpg" alt="" class="s-img-switch" width="100%">
+
 # Custom-FDM-3D-Printer
 
 This is a fully open-source FDM 3D printer currently under development. The aim of this project is to provide a comprehensive open-source design, enabling anyone to construct their own large-scale 3D printer of any size.

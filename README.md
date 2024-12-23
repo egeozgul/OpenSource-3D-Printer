@@ -1,6 +1,6 @@
 ![20241219_160529(1)](https://github.com/user-attachments/assets/53a56d4d-69ed-47ea-8abe-58e4b396c535)
 
-<img src="https://github.com/egeozgul/portfolioFiles/media/blob/main/printer_front.jpeg?raw=true" alt="" class="s-img-switch" width="100%">
+<img src="https://github.com/egeozgul/portfolioFiles/media/blob/main/printer_fron.jpg?raw=true" alt="" class="s-img-switch" width="100%">
 
 # Custom-FDM-3D-Printer
 

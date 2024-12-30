@@ -11,13 +11,7 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 
 # Attaching a standard PLA extruder
 
-
 Uploading ExtruderAttachment.mp4…
-
-
-
-https://github.com/user-attachments/assets/7d7109ef-6465-44c9-862a-37f8bb6d9f3b
-
 
 https://github.com/user-attachments/assets/80904655-1221-4ba0-b28c-61a84ad16910
 

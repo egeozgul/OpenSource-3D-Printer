@@ -9,9 +9,13 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 
 <img src="https://github.com/egeozgul/OpenSource-3D-Printer/blob/main/media/printer_fron.jpg" alt="" class="s-img-switch" width="100%">
 
-# Attaching a standard PLA extruder
+# Attaching tandard PLA extruder
 
-https://github.com/user-attachments/assets/2c567ae1-39b7-47cb-91e9-f3d9834371fe
+
+https://github.com/user-attachments/assets/8b7e0027-2a24-41f8-9a93-9ae2ec5f0dfe
+
+
+# Attaching Syringe extruder
 
 https://github.com/user-attachments/assets/80904655-1221-4ba0-b28c-61a84ad16910
 

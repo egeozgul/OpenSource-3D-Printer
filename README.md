@@ -16,10 +16,6 @@ https://github.com/user-attachments/assets/7d7109ef-6465-44c9-862a-37f8bb6d9f3b
 
 
 
-https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed
-
-https://github.com/user-attachments/assets/5bab25ef-b337-4227-8a18-fae159991af8
-
 # Stay Tuned
 
 More updates coming soon !!

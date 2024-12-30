@@ -10,11 +10,8 @@ This is a large scale FDM 3D printer currently under development. The aim of thi
 <img src="https://github.com/egeozgul/OpenSource-3D-Printer/blob/main/media/printer_fron.jpg" alt="" class="s-img-switch" width="100%">
 
 # Attaching Standard PLA extruder
-![EE](https://github.com/user-attachments/assets/219a8a29-02a3-43bd-b2e0-bff40ad63a23)
 
 https://github.com/user-attachments/assets/8b7e0027-2a24-41f8-9a93-9ae2ec5f0dfe
-
-[![Preview Image](https://github.com/user-attachments/assets/219a8a29-02a3-43bd-b2e0-bff40ad63a23)](https://github.com/user-attachments/assets/8b7e0027-2a24-41f8-9a93-9ae2ec5f0dfe)
 
 
 # Attaching Syringe Extruder

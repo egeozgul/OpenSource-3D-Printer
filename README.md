@@ -9,6 +9,12 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 
 <img src="https://github.com/egeozgul/OpenSource-3D-Printer/blob/main/media/printer_fron.jpg" alt="" class="s-img-switch" width="100%">
 
+# Attaching a standard PLA extruder
+
+
+https://github.com/user-attachments/assets/7d7109ef-6465-44c9-862a-37f8bb6d9f3b
+
+
 
 https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed
 

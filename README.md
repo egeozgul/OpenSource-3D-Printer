@@ -9,10 +9,6 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 
 <img src="https://github.com/egeozgul/OpenSource-3D-Printer/blob/main/media/printer_fron.jpg" alt="" class="s-img-switch" width="100%">
 
-# 3D Render of the Printer
-<img src="https://github.com/egeozgul/portfolioFiles/blob/main/3D_printer_rotate.gif" alt="" class="s-img-switch" width="100%">
-
-
 
 https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed
 

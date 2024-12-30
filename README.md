@@ -9,16 +9,10 @@ This is a fully open-source FDM 3D printer currently under development. The aim 
 # 3D Render of the Printer
 <img src="https://github.com/egeozgul/portfolioFiles/blob/main/3D_printer_rotate.gif" alt="" class="s-img-switch" width="100%">
 
-# Printer
+# Printing a Vase
 
-# Printing A Perfect First Layer
-Printing the first layer is often a challenge.
-This video demonstates a successful first layer print, with the plastic forming a strong bond to the heatbed.
+https://github.com/user-attachments/assets/d19236c7-ed1c-4f23-9ddf-4e6e3ed9852e
 
-# Printer In Action
-https://github.com/user-attachments/assets/eb5ae9f7-8830-41a5-a929-b43ce848d622
-
-https://github.com/user-attachments/assets/bc5cb6da-87b5-49c3-a702-098197622a87
 
 https://github.com/user-attachments/assets/a2e1c605-dbef-4ce0-851c-2b02a6cec9ed
 

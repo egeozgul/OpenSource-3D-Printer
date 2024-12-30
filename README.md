@@ -1,8 +1,6 @@
-# Printing a Vase
+# Custom-FDM-3D-Printer
 
 https://github.com/user-attachments/assets/d19236c7-ed1c-4f23-9ddf-4e6e3ed9852e
-
-# Custom-FDM-3D-Printer
 
 This is a fully open-source FDM 3D printer currently under development. The aim of this project is to provide a comprehensive open-source design, enabling anyone to construct their own large-scale 3D printer of any size.
 

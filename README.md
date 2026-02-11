@@ -1,6 +1,7 @@
 # Custom-FDM-3D-Printer
 
 This is a large scale FDM 3D printer that I have built completely from scratch. The aim of this project is to provide a comprehensive open-source design, enabling anyone to construct their own large-scale 3D printer of any size.
+STL Files and documentation will be provided soon.
 
 https://github.com/user-attachments/assets/d19236c7-ed1c-4f23-9ddf-4e6e3ed9852e
 
@@ -20,5 +21,4 @@ https://github.com/user-attachments/assets/80904655-1221-4ba0-b28c-61a84ad16910
 
 
 # Stay Tuned
-STL Files and documentation will be provided soon.
 More updates coming soon !!
